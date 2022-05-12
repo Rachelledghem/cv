@@ -1,0 +1,12 @@
+body {
+background-color: #F0F8FF
+}
+h1,h2 {
+  color:#66BFBF;
+}
+hr {
+  border-style: dotted none none;
+  border-width: medium;
+  border-color: black
+
+}
